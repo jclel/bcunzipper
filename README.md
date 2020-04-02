@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -1198,3 +1199,9 @@
   </body>
 </html>
 
+=======
+# bcunzipper
+A script for unzipping Bandcamp zip files into artistname/albumname directories.
+
+![Get started](https://github.com/rmit-jc/bcunzipper/blob/master/bcunzipper2.png)
+>>>>>>> dabe2165a1cf218569d1b409e0ef1530954b13cb
