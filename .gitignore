@@ -6,12 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-<<<<<<< HEAD
 # zip
 *.zip
 
-=======
->>>>>>> dabe2165a1cf218569d1b409e0ef1530954b13cb
+# Exclude old
+old/
+
 # Distribution / packaging
 .Python
 build/
